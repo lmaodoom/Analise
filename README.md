@@ -21,7 +21,7 @@ Este repositório contém os arquivos e diretórios relacionados à análise de 
 - Pasta "Visualizações": Inclui gráficos e visualizações gerados durante a análise. Essas imagens podem fornecer insights visuais sobre os dados.
 
 ### Exemplo da Estrutura de Diretórios
-
+```
 ├── Análise de Mortes por Armas de Fogo
 │   ├── Dados 
 │   │   ├── guns_2006.csv 
@@ -30,7 +30,7 @@ Este repositório contém os arquivos e diretórios relacionados à análise de 
 │   └── ExploratoryAnalysisGunDeathEUA.ipynb 
 ├── README.md 
 └── LICENSE 
-
+```
 
 ### Sugestão de Uso
 
