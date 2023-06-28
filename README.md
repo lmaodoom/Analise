@@ -22,15 +22,23 @@ Este repositório contém os arquivos e diretórios relacionados à análise de 
 
 ### Exemplo da Estrutura de Diretórios
 
-#├── Análise de Mortes por Armas de Fogo
-#│   ├── Dados
-#│   │   ├── guns_2006.csv
-#│   │   ├── guns_2007.csv
-#│   │   └── ...
-#│   └── ExploratoryAnalysisGunDeathEUA.ipynb
-#│   └── Visualizações
-#├── README.md
-#└── LICENSE
+├── Análise de Mortes por Armas de Fogo
+
+│   ├── Dados
+
+│   │   ├── guns_2006.csv
+
+│   │   ├── guns_2007.csv
+
+│   │   └── ...
+
+│   └── ExploratoryAnalysisGunDeathEUA.ipynb
+
+│   └── Visualizações
+
+├── README.md
+
+└── LICENSE
 
 
 ### Sugestão de Uso
