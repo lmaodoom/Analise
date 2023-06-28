@@ -22,23 +22,15 @@ Este repositório contém os arquivos e diretórios relacionados à análise de 
 
 ### Exemplo da Estrutura de Diretórios
 
-├── Análise de Mortes por Armas de Fogo
-
-│   ├── Dados
-
-│   │   ├── guns_2006.csv
-
-│   │   ├── guns_2007.csv
-
-│   │   └── ...
-
-│   └── ExploratoryAnalysisGunDeathEUA.ipynb
-
-│   └── Visualizações
-
-├── README.md
-
-└── LICENSE
+├── Análise de Mortes por Armas de Fogo 
+│   ├── Dados 
+│   │   ├── guns_2006.csv 
+│   │   ├── guns_2007.csv 
+│   │   └── ... 
+│   └── ExploratoryAnalysisGunDeathEUA.ipynb 
+│   └── Visualizações 
+├── README.md 
+└── LICENSE 
 
 
 ### Sugestão de Uso
@@ -47,9 +39,9 @@ Para explorar a análise de mortes por armas de fogo, siga estas etapas:
 
 1. Acesse a pasta "Dados" para obter os arquivos CSV com os dados brutos.
 
-2. Abra o arquivo "Notebook de Análise.ipynb" em um ambiente Jupyter Notebook ou Jupyter Lab. Este notebook contém todo o código e comentários explicativos sobre as perguntas e resultados da análise.
+2. Abra o arquivo "ExploratoryAnalysisGunDeathEUA.ipynb" em um ambiente Jupyter Notebook ou Jupyter Lab. Este notebook contém todo o código e comentários explicativos sobre as perguntas e resultados da análise.
 
-3. Caso queira visualizar os gráficos gerados durante a análise, navegue até a pasta "Visualizações" e abra os arquivos de imagem correspondentes.
+3. Caso queira visualizar os gráficos gerados durante a análise, navegue até o arquivo "ExploratoryAnalysisGunDeathEUA.ipynb" e abra os arquivos de imagem correspondentes.
 
 Fique à vontade para explorar os arquivos e diretórios deste repositório para obter insights sobre as mortes por armas de fogo nos Estados Unidos.
 
